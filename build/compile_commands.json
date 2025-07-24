@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/srijan/projects/Network_/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/networking_app.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\networking_app.dir\\src\\main.cpp.obj -c D:\\srijan\\projects\\Network_\\src\\main.cpp",
+  "file": "D:/srijan/projects/Network_/src/main.cpp",
+  "output": "CMakeFiles/networking_app.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/srijan/projects/Network_/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/networking_app.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\networking_app.dir\\src\\NetworkUtils.cpp.obj -c D:\\srijan\\projects\\Network_\\src\\NetworkUtils.cpp",
+  "file": "D:/srijan/projects/Network_/src/NetworkUtils.cpp",
+  "output": "CMakeFiles/networking_app.dir/src/NetworkUtils.cpp.obj"
+},
+{
+  "directory": "D:/srijan/projects/Network_/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/networking_app.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\networking_app.dir\\src\\HttpServer.cpp.obj -c D:\\srijan\\projects\\Network_\\src\\HttpServer.cpp",
+  "file": "D:/srijan/projects/Network_/src/HttpServer.cpp",
+  "output": "CMakeFiles/networking_app.dir/src/HttpServer.cpp.obj"
+},
+{
+  "directory": "D:/srijan/projects/Network_/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/networking_app.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\networking_app.dir\\src\\TcpClient.cpp.obj -c D:\\srijan\\projects\\Network_\\src\\TcpClient.cpp",
+  "file": "D:/srijan/projects/Network_/src/TcpClient.cpp",
+  "output": "CMakeFiles/networking_app.dir/src/TcpClient.cpp.obj"
+}
+]
