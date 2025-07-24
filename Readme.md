@@ -1,4 +1,4 @@
-# C++ Foundational Networking Project
+# C++ Foundational Networking Project (under development)
 
 ## Description
 
